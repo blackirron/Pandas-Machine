@@ -43,5 +43,5 @@ Ensure you have Python 3.8+ installed. It is recommended to run this project wit
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/Pandas-Machine.git](https://github.com/yourusername/Pandas-Machine.git)
+   git clone [https://github.com/blackirron/Pandas-Machine.git](https://github.com/blackirron/Pandas-Machine.git)
    cd Pandas-Machine
